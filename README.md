@@ -1,4 +1,5 @@
-*Digit Recognizer AI with GUI 
+*![Uploading ai.PNG…]()
+Digit Recognizer AI with GUI 
 
 This project is a simple digit recognition application using a Convolutional Neural Network (CNN) trained on the MNIST dataset. The user can draw digits on the screen 
 and get predictions in real-time via a graphical user interface (GUI) built with Tkinter.
