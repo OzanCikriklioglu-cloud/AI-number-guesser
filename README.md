@@ -1,4 +1,7 @@
-*![Uploading ai.PNG…]()
+
+![ai](https://github.com/user-attachments/assets/6cc3a0a4-6964-4c74-8bcc-5ecf9be49a1b)
+
+
 Digit Recognizer AI with GUI 
 
 This project is a simple digit recognition application using a Convolutional Neural Network (CNN) trained on the MNIST dataset. The user can draw digits on the screen 
